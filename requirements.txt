@@ -1,0 +1,5 @@
+mistralai
+streamlit
+faiss-cpu
+pypdf
+mistralai
